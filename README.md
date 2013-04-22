@@ -14,10 +14,10 @@ Features:
 Here are a few quick samples:
 
 - query a array of System.Diagnostics.Process objects
-!(http://voidsoft.ro/content/image/karmencita_code.png)
+![](http://voidsoft.ro/content/image/karmencita_code.png)
 
 - query a DataTable (the Northwind database products table)
-!(http://voidsoft.ro/content/image/karmencita_code_2.png)
+![](http://voidsoft.ro/content/image/karmencita_code_2.png)
 
 - query a XmlDataDocument
-!(http://voidsoft.ro/content/image/karmencita_code_3.png)
+![](http://voidsoft.ro/content/image/karmencita_code_3.png)
